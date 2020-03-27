@@ -1,0 +1,16 @@
+package com.capgemini.junit.calculator.test;
+
+public class MyRestService {
+
+	public String getStudentName() {
+
+		return "meera";
+	}
+
+	public String getTeacherName() {
+
+		return "maya";
+	}
+
+
+}

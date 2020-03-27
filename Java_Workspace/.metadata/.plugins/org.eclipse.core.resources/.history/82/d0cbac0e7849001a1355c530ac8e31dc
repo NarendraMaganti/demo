@@ -1,0 +1,5 @@
+package com.capgemini.junit.calculator.test;
+
+public class Bmi {
+
+}

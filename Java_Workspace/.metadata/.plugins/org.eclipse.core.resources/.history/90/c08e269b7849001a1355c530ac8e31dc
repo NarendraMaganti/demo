@@ -1,0 +1,17 @@
+package com.capgemini.junit.calculator.test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class CalculatorTest {
+
+	@Test
+	void add() {
+		
+		Calculator c = new Calculator();
+		int i = c.add(20, 30);
+		assertEquals(50,i);
+	}
+
+}

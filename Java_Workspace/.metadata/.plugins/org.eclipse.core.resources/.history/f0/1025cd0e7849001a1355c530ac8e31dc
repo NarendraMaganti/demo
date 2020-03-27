@@ -1,0 +1,9 @@
+package com.capgemini.junit.calculator.test;
+
+public class Bmi {
+	public double bmiCalculator(double height,double weight) {
+		
+		
+	}
+
+}

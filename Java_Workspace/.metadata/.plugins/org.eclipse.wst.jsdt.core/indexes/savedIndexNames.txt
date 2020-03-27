@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\MENTOS\Desktop\Java_Workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2960471809.index
+699795775.index
+1971931403.index
+3102278913.index
+3366158726.index
+3732499850.index
+2582384556.index
+2608290447.index

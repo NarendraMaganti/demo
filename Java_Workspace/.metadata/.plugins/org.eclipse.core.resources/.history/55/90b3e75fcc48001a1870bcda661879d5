@@ -1,0 +1,5 @@
+package com.capgemini.accessspecifier.pkg1;
+
+public interface Vehicle {
+
+}

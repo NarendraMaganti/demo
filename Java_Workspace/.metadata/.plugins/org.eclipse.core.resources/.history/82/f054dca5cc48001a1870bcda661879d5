@@ -1,0 +1,18 @@
+package com.capgemini.accessspecifier.pkg1;
+
+public interface Vehicle {
+	
+	int i;
+	static{
+		i=10;
+	}
+	
+default	void abc() {
+		
+	}
+	static void abcd() {
+		System.out.println("kvfkjk");
+	}
+	
+
+}
